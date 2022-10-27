@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Historical",
+    "description": "In 1971, the Bangladeshi liberation struggle against Pakistan was led by secular leaders and secularists hailed the Bangladeshi victory as the triumph of secular Bengali nationalism over religion-centred Pakistani nationalism. While Pakistan's government strives for an Islamic state, Bangladesh was established secular.",
+    "time": 1,
+    "images": "https://i.ibb.co/s3dgJKV/Historical-Books.jpg",
+    "reading": "On a week one day",
+    "id": 8674867846546464564
+  },
+  {
+    "title": "Scientist",
+    "description": "Einstein is best known for developing the theory of relativity, but he also made important contributions to the development of the theory of quantum mechanics. Relativity and quantum mechanics are together the two pillars of modern physics.",
+    "time": 2,
+    "images": "https://i.ibb.co/hf8XgwK/albert-einstein.jpg",
+    "reading": "On a week one day",
+    "id": 154646464564645444
+  },
+  {
+    "title": "Geography",
+    "description": "Geography is the study of places and the relationships between people and their environments. Geographers explore both the physical properties of Earth's surface and the human societies spread across it.",
+    "time": 1,
+    "images": "https://i.ibb.co/BGCL7Mc/geography.jpg",
+    "reading": "On a week one day",
+    "id": 2415644545416542344
+  },
+  {
+    "title": "Newspaper",
+    "description": "Newspapers carry the news of the world. Newspapers provide information and general knowledge. Newspapers provide news about a country's economic situation, sports, games, entertainment, trade and commerce. Reading newspaper makes a good habit and it is already part of the modern life.",
+    "time": 1,
+    "images": "https://i.ibb.co/MNTDFsp/libary.jpg",
+    "reading": "regular",
+    "id": 6546446435454654
+  },
+  {
+    "title": "Traveling",
+    "description": "A travel blog contains pages and posts. Each of your travel articles are called “blog posts, which can include travel guides, itineraries, and other unique topics. The main pages on your site, which often appear at the top, may include an About and Contact page.",
+    "time": 1,
+    "images": "https://i.ibb.co/c2H9twF/blog-2.jpg",
+    "reading": "On a week one day",
+    "id": 5465454541353511
+  },
+  {
+    "title": "Python",
+    "description": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics developed by Guido van Rossum. It was originally released in 1991. Designed to be easy as well as fun, the name Python is a nod to the British comedy group Monty Python.",
+    "time": 4,
+    "images": "https://i.ibb.co/Th6Z0bJ/libary-2.jpg",
+    "reading": "Regular",
+    "id": 15646513514312313
+  },
+  {
+    "title": "Javascript",
+    "description": "Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers. JavaScript is so popular that it's the most used programming language in the world, used as a client-side programming language by 97.0% of all websites.",
+    "time": 6,
+    "images": "https://i.ibb.co/8M2qWtJ/javascript.jpg",
+    "reading": "Regular",
+    "id": 13541654531353141
+  },
+  {
+    "title": "Reactjs",
+    "description": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3] for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[4][5][6] React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for",
+    "time": 6,
+    "images": "https://i.ibb.co/RzWDPNC/reactjs.jpg",
+    "reading": "Everyday",
+    "id": 5416546435554
+  },
+  {
+    "title": "Internet",
+    "description": "The internet helps us with facts and figures, information and knowledge for personal, social and economic development. There are many uses of the internet, however, the use of the internet in our daily life depends on individual requirements and goals.",
+    "time": 2,
+    "images": "https://i.ibb.co/RSbCh6V/internet.jpg",
+    "reading": "On a week one day",
+    "id": 45464646351354
+  }
+]

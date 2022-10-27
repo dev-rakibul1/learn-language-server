@@ -9,6 +9,7 @@ app.use(cors());
 const language = require("./data/languages.json");
 const technology = require("./data/technology_details.json");
 const blog = require("./data/blog.json");
+const blogInfo = require("./data/ourBlogInfo.json");
 
 // root path
 app.get("/language", (req, res) => {
@@ -21,6 +22,16 @@ app.get("/technology", (req, res) => {
 
 app.get("/blog", (req, res) => {
   res.send(blog);
+});
+app.get("/blogInfo", (req, res) => {
+  res.send(blogInfo);
+});
+
+app.get("/blogInfo/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  console.log(id);
+  const matchId = blogInfo.find((singleId) => singleId.id == id);
+  res.send(matchId || "data not found");
 });
 
 app.get("/singlePart/:id", (req, res) => {
