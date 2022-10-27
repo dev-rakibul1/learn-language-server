@@ -8,6 +8,7 @@ app.use(cors());
 // require language
 const language = require("./data/languages.json");
 const technology = require("./data/technology_details.json");
+const blog = require("./data/blog.json");
 
 // root path
 app.get("/language", (req, res) => {
@@ -16,6 +17,10 @@ app.get("/language", (req, res) => {
 
 app.get("/technology", (req, res) => {
   res.send(technology);
+});
+
+app.get("/blog", (req, res) => {
+  res.send(blog);
 });
 
 app.get("/singlePart/:id", (req, res) => {
