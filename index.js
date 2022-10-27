@@ -25,6 +25,13 @@ app.get("/singlePart/:id", (req, res) => {
   res.send(matchId || "data not found");
 });
 
+app.get("/language/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  console.log(id);
+  const matchId = language.find((singleId) => singleId.id == id);
+  res.send(matchId || "data not found");
+});
+
 app.listen(port, () => {
   console.log(`Our server running port is ${port}`);
 });

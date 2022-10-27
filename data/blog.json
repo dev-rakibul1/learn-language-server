@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "what is cors?",
+    "description": "Cross-origin resource sharing (CORS) is a browser security feature that restricts cross-origin HTTP requests that are initiated from scripts running in the browser. If your REST API's resources receive non-simple cross-origin HTTP requests."
+  },
+  {
+    "id": "2",
+    "title": "Why are you using firebase? What other options do you have to implement authentication?",
+    "description": "The Firebase Realtime Database lets you build rich, collaborative applications by allowing secure access to the database directly from client-side code. Data is persisted locally, and even while offline, realtime events continue to fire, giving the end user a responsive experience. \n Usually, authentication by a server entails the use of a user name and password. Other ways to authenticate can be through cards, retina scans, voice recognition, and fingerprints."
+  },
+  {
+    "id": "3",
+    "title": "How does the private route work?",
+    "description": "The private route component is similar to the public route, the only change is that redirect URL and authenticate condition. If the user is not authenticated he will be redirected to the login page and the user can only access the authenticated routes If he is authenticated Logged in."
+  },
+  {
+    "id": "4",
+    "title": "What is Node? How does Node work ?",
+    "description": "Node js is Javascript run time, it's power by google chrome V8 engin. Node.js is written in C, C++, and JavaScript, and it is built on the open-source V8 JavaScript engine which also powers JS in browsers such as Google Chrome. As V8 supports new features in JavaScript, they are incorporated into Node \n Node JS Web Server internally maintains a Limited Thread pool to provide services to the Client Requests. Node JS Web Server receives those requests and places them into a Queue. It is known as “Event Queue”. Node JS Web Server internally has a Component, known as “Event Loop"
+  }
+]
